@@ -6,7 +6,6 @@ using System;
 using System.Reflection.Metadata;
 using System.Threading;
 using Xamarin.Essentials;
-using AutoItX3Lib;
 
 namespace TestProjekt
 {
@@ -69,7 +68,6 @@ namespace TestProjekt
             webDriver.FindElement(By.CssSelector(".btn.btn-primary.btn-block")).Click();
             Thread.Sleep(2000);
 
-            //TEST BLEDU
             String wartosc_oczekiwana = "Invalid login attempt.";
 
             IWebElement m = webDriver.FindElement(By.CssSelector(".text-danger.validation-summary-errors"));
