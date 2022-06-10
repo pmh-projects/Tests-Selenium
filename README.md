@@ -7,7 +7,7 @@
  
  ## Opis
 
-  Testy strony https://hcomp.azurewebsites.net/
+  Testy strony https://hcomp.azurewebsites.net/ wykonanej na potrzeby zaliczenia przedmiotu "Programowanie w chmurze obliczeniowej".
   <br>
   Testy logowania oraz rejestracji użytkownika, a także dodawania, edycji i usuwania produktu.
   
