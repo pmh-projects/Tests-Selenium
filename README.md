@@ -10,6 +10,13 @@
   Testy strony https://hcomp.azurewebsites.net/
   <br>
   Testy logowania oraz rejestracji użytkownika, a także dodawania, edycji i usuwania produktu.
+  
+  
+## Architektura
+
+* [Selenium](https://www.selenium.dev/)
+* [Nunit](https://nunit.org/)
+* [VisualStudio](https://visualstudio.microsoft.com/pl/vs/)
 
 ## Tests demo
 
