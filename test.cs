@@ -5,7 +5,6 @@ using OpenQA.Selenium.Support.UI;
 using System;
 using System.Reflection.Metadata;
 using System.Threading;
-using Xamarin.Essentials;
 
 namespace TestProjekt
 {
